@@ -1,5 +1,9 @@
 # Snake2048
 
-Réalisation d'un mix entre les célèbres jeux 2048 et Snake.  
+Mix between Snake and 2048. 
+
+**Warning**
+
+You need PyQt5 to play it ! 
 
 
